@@ -1,0 +1,40 @@
+Full names: 
+- Brazil_E_UFs_2025.csv: ESTIMATIVAS DA POPULAÇÃO RESIDENTE NO BRASIL E UNIDADES DA FEDERAÇÃO COM DATA DE REFERÊNCIA EM 1º DE JULHO DE 2025
+- Municipios_2025.csv: ESTIMATIVAS DA POPULAÇÃO RESIDENTE NOS MUNICÍPIOS BRASILEIROS COM DATA DE REFERÊNCIA EM 1º DE JULHO DE 2025
+
+Source: IBGE. Diretoria de Pesquisas - DPE -  Coordenação de População e Indicadores Sociais - COPIS. 
+Link: https://www.ibge.gov.br/en/statistics/social/population/18448-estimates-of-resident-population-for-municipalities-and-federation-units.html?lang=en-GB
+
+Notes:
+- For Brazil_E_UFs_2025.csv: 
+(1) diferença de 67 pessoas entre os Estados do Paraná e Santa Catarina com relação a Projeção da População para o Brasil e Unidades da Federação (Revisão 2024), no ano de 2025, em virtude de alteração de limites entre municípios na divisa interestadual.
+
+- For Municipios_2025.csv:
+1,População judicial do município de Alvarães-AM: 30.565  habitantes. Processo Judicial nº1024023-54.2025.4.01.3200 - 9ª Vara Federal da Seção Judiciária do Amazonas
+2,População judicial do município de Amaturá-AM: 16.981 habitantes. Processo Judicial nº 1046072-26.2024.4.01.3200 - 09ª Vara Federal Cível da Seção Judiciária do Amazonas
+3,População judicial do município de Apuí-AM: 30.565 habitantes. Processo Judicial nº 1022687-15.2025.4.01.3200 - 03ª Vara Federal Cível da Seção Judiciária do Amazonas
+4,População judicial do município de Barcelos-AM: entre 37.357 e 44.148 habitantes. Processo Judicial nº 1009427-70.2022.4.01.3200 - 03ª Vara Federal Cível da Seção Judiciária do Amazonas
+5,População judicial do município de Benjamin Constant-AM: na faixa de 44.149 habitantes. Processo Judicial nº 1000062-26.2021.4.01.3200 – 1ª Vara Federal Cível da Seção Judiciária do Amazonas.
+6,População judicial do município de Canutama-AM: 23.773 habitantes. Processo Judicial nº 1048132-06.2023.4.01.3200 - Plantão Judicial da Seção Judiciária do Amazonas
+7,População judicial do município de Careiro-AM: 50.941 habitantes. Processo Judicial nº 1048133-88.2023.4.01.3200 - 03ª Vara Federal Cível da Seção Judiciária do Amazonas
+8,População judicial do município de Careiro da Várzea-AM:  44.149 habitantes. Processo Judicial nº 1046095-69.2024.4.01.3200 – 3ª Vara Federal Cível da Seção Judiciária do Amazonas.
+9,População judicial do Município de Codajás-AM: entre 37.357 a 44.148 habitantes. Processo Judicial nº 1038474-55.2023.4.01.3200 – 9ª Vara Federal Cível da Seção Judiciária do Amazonas.
+10,População judicial do município de Envira-AM: 30.565 habitantes. Processo Judicial nº 1037249-97.2023.4.01.3200 - 03ª Vara Federal Cível da Seção Judiciária do Amazonas
+11,População judicial do município de Fonte Boa-AM: entre 23.773 a 30.564 habitantes. Processo Judicial nº 1000164-14.2022.4.01.3200 - Plantão Judicial da Seção Judiciária do Amazonas
+12,População judicial do município de Guajará-AM: na faixa de 16.981 habitantes. Processo Judicial nº 1000064-93.2021.4.01.3200 - 03ª Vara Federal Cível da Seção Judiciária do Amazonas
+13,População judicial do município de Itacoatiara-AM: acima de 156.216. Processo Judicial nº  1018170-35.2023.4.01.3200 -  01ª Vara Federal Cível da Seção Judiciária do Amazonas
+14,População judicial do município de Itamarati-AM: 10.189 a 13.584 habitantes. Processo Judicial nº 1006765-02.2023.4.01.3200 - 03ª Vara Federal Cível da Seção Judiciária do Amazonas.
+15,População judicial do município de Japurá-AM: 23.773 habitantes. Processo Judicial nº 1024025-24.2025.4.01.3200 - 09ª Vara Federal Cível da Seção Judiciária do Amazonas
+16,População judicial do município de Juruá-AM: 23.773 a 30.564. Processo Judicial nº 1036625-48.2023.4.01.3200 - Plantão Judicial da Seção Judiciária do Amazonas.
+17,População judicial do município de Manacapuru-AM: 169.041 habitantes. Processo Judicial nº 1011348-64.2022.4.01.3200 - 03ª Vara Federal Cível da Seção Judiciária do Amazonas
+18,"População judicial do município de Novo Airão-AM: 30.565 habitantes. Processo Judicial nº 1023829-25.2023.4.01.3200 - 03ª Vara Federal Cível da Seção Judiciária do Amazonas
+"
+19,População judicial do município de Parintins-AM: na faixa de 115.465 habitantes. Processo Judicial nº 1022483-44.2020.4.01.3200 - 03ª Vara Federal Cível da Seção Judiciária do Amazonas
+20,População judicial do município de Rio Preto da Eva-AM: 53.819 habitantes. Processo Judicial nº 1028591-84.2023.4.01.3200 - 03ª Vara Federal Cível da Seção Judiciária do Amazonas
+21,População judicial do município de São Gabriel da Cachoeira-AM: 81.780 habitantes. Processo Judicial nº 1023156-61.2025.4.01.3200 - 09ª Vara Federal Cível da Seção Judiciária do Amazonas
+22,População judicial do município de São Paulo de Olivença-AM: 51.115 habitantes. Processo Judicial nº 1004788-38.2024.4.01.3200 - 01ª Vara Federal Cível da Seção Judiciária do Amazonas
+23,População judicial do município de Tonantins-AM: 30.810 habitantes. Processo Judicial nº 1018998-94.2024.4.01.3200 - 03ª Vara Federal Cível da Seção Judiciária do Amazonas
+24, População judicial do município de Uarini-AM: acima de 23.773 habitantes. Processo Judicial nº 1048092-24.2023.4.01.3200 - Plantão Judicial da Seção Judiciária do Amazonas
+25,População judicial do município de Urucará-AM: 30.625 habitantes. Processo Judicial nº 1008620-79.2024.4.01.3200 - 03ª Vara Federal Cível da Seção Judiciária do Amazonas
+26,População judicial do município de Urucurituba-AM: 37.357 habitantes. Processo Judicial nº 1046084-40.2024.4.01.3200 - 09ª Vara Federal Cível da Seção Judiciária do Amazonas. 
+27,População judicial do município de Urbano Santos-MA: 53.014 habitantes. Processo Judicial nº 1059620-39.2025.4.01.3700 - 05ª Vara Federal Cível da Seção Judiciária do Maranhão

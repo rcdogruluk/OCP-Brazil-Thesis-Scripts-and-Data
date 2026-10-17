@@ -1,0 +1,24 @@
+quantity,value
+municipalities in the nine-state study area,1794
+municipalities in the OCP file,861
+OCP municipalities matching the municipal mesh,827
+municipality-months in the matched panel,49620
+matched municipalities without a SINISA value,81
+analysed municipalities,746
+municipalities without an OCP record,967
+residents of the analysed municipalities (IBGE 2025),18051648
+calendar months blank for every municipality,"2016-11, 2016-12, 2017-12"
+analysed municipality-months in those blank months,2238
+analysed municipality-months blank because of late entry,514
+analysed municipality-months,42008
+share of analysed municipality-months with zero spending,0.1786
+median monthly spending (R$),42452.0
+SD / mean of monthly spending,5.3
+spending cap: 99th percentile in the 827-municipality panel (R$),703321.0
+analysed municipality-months above the cap,465
+"correlation of mean SPEI-12 and unserved water (Pearson, 746)",-0.06
+"correlation of mean SPEI-12 and unserved water (Spearman, 746)",-0.084
+municipalities in the official semi-arid list (SUDENE),1262
+analysed municipalities in the semi-arid list,735
+matched (827) municipalities in the semi-arid list,816
+municipalities without an OCP record in the semi-arid list,355

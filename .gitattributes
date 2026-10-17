@@ -1,0 +1,4 @@
+# Code and docs: normalise line endings. Data and outputs: store byte for byte.
+* text=auto
+data/** -text
+outputs/** -text

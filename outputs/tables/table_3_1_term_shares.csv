@@ -1,0 +1,5 @@
+"term","model_term","mean_abs_contribution","share"
+"Unserved water curve","s(water_unserved_pct)",0.431954436839785,0.325361365117189
+"Drought curve","s(drought)",0.376130026579509,0.283312702619292
+"Month curve","s(month)",0.300446387345247,0.22630545815515
+"Drought-month surface","ti(drought,month)",0.21908355939815,0.165020474108369

@@ -1,0 +1,13 @@
+# Python 3.12. Versions used for the thesis run (October 2026).
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.16.3
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+geopandas==1.2.0
+shapely==2.1.2
+pyogrio==0.13.0
+pyarrow==25.0.1
+# Only for the optional climate extraction (scripts/00_extract_climate_gee.py):
+earthengine-api==1.7.46

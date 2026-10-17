@@ -1,0 +1,8 @@
+quantity,value
+lowest test RMSE: window,9.0
+lowest test RMSE: lag,1.0
+lowest test RMSE,3.501
+SPEI-12 lag 0 test RMSE (used),3.524
+SPEI-12 lag 0 test R2,-0.019
+"band windows 9-14, lags 0-1: lowest RMSE",3.501
+"band windows 9-14, lags 0-1: highest RMSE",3.535

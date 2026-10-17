@@ -1,0 +1,30 @@
+"quantity","value"
+"municipality-months",42008
+"deviance explained",0.42712056626531
+"adjusted R-squared",0.417639447937883
+"median absolute error",1.79500232209268
+"median absolute error, months with spending",1.38155221256
+"median absolute error, months without spending",5.60807741078605
+"share of months with spending",0.821367358598362
+"share of months without spending",0.178632641401638
+"RMSE",3.26205027990723
+"RMSE predicting the overall average",4.30981903621413
+"month-to-month carry-over rho",0.569519493374928
+"share of zero months among the worst tenth of errors",0.939300166626994
+"share of squared error from zero months",0.662650159439537
+"Drought curve: EDF",5.23627666362651
+"Month curve: EDF",9.34621166980819
+"Drought-month surface: EDF",12.4057252636622
+"Unserved water curve: EDF",0.978599824872112
+"Drought curve: F",69.4277910010149
+"Month curve: F",26.2426020144551
+"Drought-month surface: F",6.54023817262869
+"Unserved water curve: F",454.990521208903
+"Drought curve: p",0
+"Month curve: p",0
+"Drought-month surface: p",0
+"Unserved water curve: p",0
+"Drought curve: mean width of 95% band",0.286509611999285
+"Month curve: mean width of 95% band",0.298705359092366
+"Drought-month surface: mean width of 95% band",0.332843474754003
+"Unserved water curve: mean width of 95% band",0.261373118821164
