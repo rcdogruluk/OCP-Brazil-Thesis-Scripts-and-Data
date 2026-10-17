@@ -107,10 +107,11 @@ Spending is capped at R$ 703,321, the 99th percentile of the 827-municipality pa
 log is taken.
 
 Running `python run_all.py --refit` from the raw data gives the same models (coefficients equal to
-within 10⁻⁹) and the same tables and figures as the thesis. One small difference with the thesis
-text: Chapter 3 gives the 95% interval of the standing difference as 2.69 to 6.04, while this code
-gives 2.69 to 6.05 (Annex B, at one decimal, shows 2.7 to 6.0 for both). The interval comes from
-random draws of the model coefficients, and the thesis figure was taken from an earlier run.
+within 10⁻⁹) and the same tables and figures as the thesis. One small difference with the thesis text: Chapter 3 and Chapter 4 give the 95% interval of the
+standing difference as 2.69 to 6.04, while this code gives 2.69 to 6.05 for the reported model.
+The 6.04 comes from an earlier robustness run whose month-to-month carry-over was 0.5865 instead
+of the reported 0.5695, so the code's figure is the one that belongs to the reported model.
+Annex B, at one decimal, shows 2.7 to 6.0 either way.
 
 ## Reading the results
 
